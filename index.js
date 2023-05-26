@@ -1,6 +1,6 @@
 // Require the necessary discord.js classes
 const { Client, EmbedBuilder, Events, GatewayIntentBits, time } = require('discord.js');
-const { token, guildID, channelID, testChannelID } = require('./config.json');
+const { token, guildID, channelID, chatsThreadID, emailsThreadID, testChannelID } = require('./config.json');
 const fs = require('fs');
 const { createHash } = require('node:crypto');
 
@@ -56,9 +56,11 @@ client.on('ready', async () => {
         fs.writeFileSync(fileName, Buffer.from(JSON.stringify(obj, null, 2), 'utf8'))
     }
 
-    const sendMessage = (message) => {
+    const sendMessage = (thread, message) => {
         // CHANGE TO THE #marathon CHANNEL FOR PRODUCTION (channelID)
-        client.channels.cache.get(testChannelID).send(message) // sky and retro's private test server
+        // const channelID = testChannelID
+        const threadID = thread === 'chat' ? chatsThreadID : emailsThreadID
+        client.channels.cache.get(channelID).threads.cache.get(threadID).send(message)
     }
 
     const sendEmail = async (email) => {
@@ -74,7 +76,7 @@ client.on('ready', async () => {
         if (email.attachement) fields.push(
             { name: "Attachment", value: email.attachement ?? 'None' }
         )
-        sendMessage({
+        sendMessage('email', {
             embeds: [{
                 color: 5763719,
                 timestamp: email.date,
@@ -94,7 +96,7 @@ client.on('ready', async () => {
         if (chat.attachment) fields.push(
             { name: "Attachment", value: chat.attachment.metadata.fileName }
         )
-        sendMessage({
+        sendMessage('chat', {
             embeds: [{
                 color: 5763719,
                 timestamp: chat.timestamp,
