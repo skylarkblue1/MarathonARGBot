@@ -151,5 +151,39 @@
     "attachment_type": "3",
     "attachment_without_password": false,
     "Campaign_Day": "DAY TW0 16:04 PST Email 9"
+  },
+  {
+    "id": "15",
+    "subject": "149階 北西ブロック、トイレ復旧完了",
+    "from": "HOST.MAIN",
+    "content": "<p><strong>149階 北西ブロック、トイレ復旧完了</strong></p>\n<p>セキグチ財務チーム各位、</p>\n<p>149階の北西149 41-60ブロックにあるトイレの復旧作業が完了し、使用可能になりましたのでお知らせいたします。すべてのサービスが復旧し、現在ご利用いただける状態です。</p>\n<p>ご迷惑とご不便をおかけして申し訳ございませんでした。</p>\n<p>- セキグチジェネティクス タワーホスピタリティ</p>",
+    "to": "SG.ALL",
+    "mailedBy": "sg.towerhost.main@sekiguchi.gen.iom",
+    "signedBy": "sg.towerhost.main@sekiguchi.gen.iom",
+    "security": "pri.0.internal",
+    "bcc": null,
+    "date": "2023-05-26T01:33:00",
+    "maildate": "2888年5月26日10時33分（日本時間）",
+    "attachement": null,
+    "attachment_type": null,
+    "attachment_without_password": false,
+    "Campaign_Day": "DAY TWO 18:33 PST Email 10"
+  },
+  {
+    "id": "16",
+    "subject": "緊急：火星における重大事故の発生",
+    "from": "HASHIMOTO.KAEMON",
+    "content": "<p>セキグチ社員各位、</p>\n<p>火星から痛ましい知らせが届きました。TRAXUS社のオキシア・パルス・オペレーションのB 01サイトで発生した崩落事故については、社内でも状況を確認中です。被害の規模や負傷者の有無などについてはまだわかっていません。TRAXUS社と地元当局が対応にあたっています。当社からは、必要であれば、バイオマタ関連の復旧を支援することを申し出ています。支援が必要な場合、またその時期については、TRAXUS社から連絡が入ることになっています。当面は、引き続き現在進めている業務に専念し、集中力が散漫にならないように努めてください。</p>\n<p>精神的なサポートが必要な場合は、人材福祉課にいつでも相談してください。</p>\n<p>この悲劇に見舞われた方々とそのご家族に、心よりお見舞い申し上げます。</p>\n<p>管理者各位、</p>\n<p>チームに対して、従業員のケアに関するあらゆるオプションを共有するとともに、報道機関への情報提供を控えるなど、標準的な守秘義務について改めて確認してください。報道機関からコメントを求められた場合は、広報担当者に連絡するよう伝えてください。</p>\n<p>よろしくお願いします。</p>\n<p>橋本嘉右衛門</p>",
+    "to": "SG.ALL",
+    "mailedBy": "hashimoto.kaemon@sekiguchi.GROUP.iom",
+    "signedBy": "hashimoto.kaemon@sekiguchi.GROUP.iom",
+    "security": "pri0.internal",
+    "bcc": null,
+    "date": "2023-05-26T04:01:00",
+    "maildate": "2888年5月26日13時01分（日本時間）",
+    "attachement": null,
+    "attachment_type": null,
+    "attachment_without_password": false,
+    "Campaign_Day": "DAY TWO 23:01 PST Email 11"
   }
 ]

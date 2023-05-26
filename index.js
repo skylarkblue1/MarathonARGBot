@@ -175,7 +175,7 @@ client.on('ready', async () => {
     const setLoopSpeed = (delay) => {
         if (interval) clearInterval(interval)
         loopSpeed = delay
-        setInterval(loop, delay * 1000)
+        interval = setInterval(loop, delay * 1000)
     }
 
     checkForUpdates() // first run
