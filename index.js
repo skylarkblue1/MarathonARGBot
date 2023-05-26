@@ -59,6 +59,7 @@ client.on('ready', async () => {
     const sendMessage = (thread, message) => {
         // CHANGE TO THE #marathon CHANNEL FOR PRODUCTION (channelID)
         // const channelID = testChannelID
+
         const threadID = thread === 'chat' ? chatsThreadID : emailsThreadID
         client.channels.cache.get(channelID).threads.cache.get(threadID).send(message)
     }
@@ -69,7 +70,7 @@ client.on('ready', async () => {
             { name: "From", value: email.from, inline: true },
             { name: "To", value: email.to, inline: true },
             { name: "Date (fictional)", value: email.maildate, inline: true },
-            { name: "Date (IRL)", value: time(new Date(email.date)), inline: true },
+            { name: "Date (IRL)", value: time(new Date(email.date + 'Z')), inline: true },
             { name: "Subject", value: email.subject },
             { name: "Content", value: email.content }
         ]
@@ -86,24 +87,23 @@ client.on('ready', async () => {
         })
     }
 
-    const sendChat = async (chat) => {
+    const buildChat = (chat) => {
         const fields = [
             { name: "From", value: chat.from, inline: true },
-            { name: "Sent", value: time(new Date(chat.timestamp)), inline: true },
-            { name: "Valid Until", value: time(new Date(chat.valid_until)), inline: true },
+            { name: "Sent", value: time(new Date(chat.timestamp + 'Z')), inline: true },
+            { name: "Valid Until", value: time(new Date(chat.valid_until + 'Z')), inline: true },
             { name: "Content", value: chat.message },
         ]
         if (chat.attachment) fields.push(
             { name: "Attachment", value: chat.attachment.metadata.fileName }
         )
-        sendMessage('chat', {
-            embeds: [{
-                color: 5763719,
-                timestamp: chat.timestamp,
-                author: { name: "Traxus Chat Message" },
-                fields
-            }]
-        })
+
+        return {
+            color: 5763719,
+            timestamp: chat.timestamp,
+            author: { name: "Traxus Chat Message" },
+            fields
+        }
     }
 
     let fetchesWithoutUpdates = 0
@@ -124,10 +124,25 @@ client.on('ready', async () => {
         const chatHashes = chats.map(chat => ({ ...chat, hash: md5(JSON.stringify(chat)) }))
         const lastChatHashes = lastChats.map(chat => md5(JSON.stringify(chat)))
         const newChats = chatHashes.filter(({ hash }) => !lastChatHashes.includes(hash))
-        newChats.forEach((chat) => {
-            console.log((new Date()).toISOString(), 'New chat with timestamp', chat.timestamp, 'and hash', chat.hash);
-            sendChat(chat);
-        })
+
+        if (newChats.length > 0) {
+            const embeds = newChats.map(buildChat)
+            const messageEmbeds = [[]]
+            embeds.forEach((embed) => {
+                const latest = messageEmbeds[messageEmbeds.length - 1]
+                if (latest.length === 10) {
+                    messageEmbeds.push([embed])
+                } else {
+                    latest.push(embed)
+                }
+            })
+            messageEmbeds.forEach((embeds) => {
+                sendMessage('chat', { embeds })
+            })
+            newChats.forEach((chat) => {
+                console.log((new Date()).toISOString(), 'New chat with timestamp', chat.timestamp, 'and hash', chat.hash)
+            })
+        }
 
         if (newChats.length > 0) {
             fetchesWithoutUpdates = 0
