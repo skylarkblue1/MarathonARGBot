@@ -3,996 +3,440 @@
     "from": "VLCN",
     "title": "",
     "message": "channel.wipe…<br>\ninitiated…<br>\ncycle = 24+ synch.delete (archive = no)<br>\nzone = (earth.mars.(luna)).overlapping<br>\nchannel.wipe = active<br>\nbatch = 12:01 - prev.24+<br>\nbatch = deleted<br>\nfiles = 0",
-    "timestamp": "2023-05-25T07:01:00",
-    "valid_until": "2023-05-26T07:00:00",
+    "timestamp": "2023-05-26T07:01:00",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "UrosBS_0111",
     "title": "",
-    "message": "@VLCN Who initiated a wipe on this channel?",
-    "timestamp": "2023-05-25T16:04:00",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "VLCN",
-    "title": "",
-    "message": "Hello @UrosBS_0111 Wipe initiated by @KrisBD_4505 at 00:01AM PST, Standard Earth Time.",
-    "timestamp": "2023-05-25T16:04:07",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "@UrosBS_0111 Considering the rumors of data security failings I’ve asked @VLCN to wipe its records daily.",
-    "timestamp": "2023-05-25T16:04:14",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "@TOI_Board United Shipping breached",
+    "timestamp": "2023-05-26T15:45:00",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "UrosBS_0111",
     "title": "",
-    "message": "Good call.",
-    "timestamp": "2023-05-25T16:04:18",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "And I have some good news...",
-    "timestamp": "2023-05-25T16:04:22",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "@TOI_Board Crawlers managed one more encoded overnight…",
-    "timestamp": "2023-05-25T16:04:27",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "<strong>69 6D 62 75 65</strong>",
-    "timestamp": "2023-05-25T16:04:34",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Link to United Shipping access point still missing. We’re working on it.",
-    "timestamp": "2023-05-25T16:04:39",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "PO is moving forward as well.",
-    "timestamp": "2023-05-25T16:04:43",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "SekGen happy. Working with us. Moving quickly.",
-    "timestamp": "2023-05-25T16:04:48",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "@UrosBS_0111 @HedvT_6221 and I also finalized a commit from our contractors for the new site expedition.",
-    "timestamp": "2023-05-25T16:04:55",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221:",
-    "title": "",
-    "message": "PO keeps moving.",
-    "timestamp": "2023-05-25T16:05:02",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "Goliath files cracked. The first floodgate.",
+    "timestamp": "2023-05-26T15:45:07",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "HedvT_6221",
     "title": "",
-    "message": "But sending addendum shortly per contractor's demands.",
-    "timestamp": "2023-05-25T16:05:09",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "How did we lose control of this?",
+    "timestamp": "2023-05-26T15:45:14",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "KrisBD_4505",
+    "title": "",
+    "message": "Once rumors hit the markets it becomes a feeding frenzy.",
+    "timestamp": "2023-05-26T15:45:21",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "UESC will be coming",
+    "timestamp": "2023-05-26T15:45:25",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "NinoDC_0312",
     "title": "",
-    "message": "Support tech for SekGen to source and provide.",
-    "timestamp": "2023-05-25T16:05:14",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "No more pretense, then?",
+    "timestamp": "2023-05-26T15:45:29",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "What’s the point?",
+    "timestamp": "2023-05-26T15:45:36",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "We got what we wanted.",
+    "timestamp": "2023-05-26T15:45:40",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "And VLCN wipes this chan on the turn.",
+    "timestamp": "2023-05-26T15:45:44",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "KrisBD_4505",
+    "title": "",
+    "message": "@NinoDC_0312 The coded language wasn’t to protect us from consequence.",
+    "timestamp": "2023-05-26T15:45:51",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "KrisBD_4505",
+    "title": "",
+    "message": "It was to delay prying UESC infodef.",
+    "timestamp": "2023-05-26T15:45:58",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "And we know they listen.",
+    "timestamp": "2023-05-26T15:46:05",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "KrisBD_4505",
+    "title": "",
+    "message": "Goliath = TCIV is a conversation starter.",
+    "timestamp": "2023-05-26T15:46:12",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "KrisBD_4505",
+    "title": "",
+    "message": "Confirmation of Equanimity > TCIV changes everything.",
+    "timestamp": "2023-05-26T15:46:16",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "HedvT_6221",
     "title": "",
-    "message": "We’ll reimburse on delivery.",
-    "timestamp": "2023-05-25T16:05:20",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "The contractor is secure.",
-    "timestamp": "2023-05-25T16:05:25",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "We have the means to take advantage.",
+    "timestamp": "2023-05-26T15:46:22",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "UrosBS_0111",
     "title": "",
-    "message": "Very.",
-    "timestamp": "2023-05-25T16:05:29",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "We should be the only ones capable.",
+    "timestamp": "2023-05-26T15:46:27",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "Won’t be.",
+    "timestamp": "2023-05-26T15:46:34",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Not in totality. But for scale.",
+    "timestamp": "2023-05-26T15:46:41",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "We can support our own endeavors.",
+    "timestamp": "2023-05-26T15:46:48",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "contract freelancers.",
+    "timestamp": "2023-05-26T15:46:55",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "UESC logistics and support.",
+    "timestamp": "2023-05-26T15:47:02",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "We can cover and control every angle.",
+    "timestamp": "2023-05-26T15:47:09",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "KrisBD_4505",
     "title": "",
-    "message": "How much did their loyalty cost?",
-    "timestamp": "2023-05-25T16:05:34",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "The UESC needs us more than we need them.",
+    "timestamp": "2023-05-26T15:47:13",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "HedvT_6221",
     "title": "",
-    "message": "You’re dismissive, but in my experience, Runners are very loyal -",
-    "timestamp": "2023-05-25T16:05:41",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "It might have taken them 100 years to realize it.",
+    "timestamp": "2023-05-26T15:47:17",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "We can use the leak to get the UESC to the table.",
+    "timestamp": "2023-05-26T15:47:21",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Leak continues to spread.",
+    "timestamp": "2023-05-26T16:55:00",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Not mainstream.",
+    "timestamp": "2023-05-26T16:55:07",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Tracking across multiple markets.",
+    "timestamp": "2023-05-26T16:55:14",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Shifting storefronts makes it hard to map, but word is spreading in Runner circles",
+    "timestamp": "2023-05-26T16:55:20",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "HedvT_6221",
     "title": "",
-    "message": "- to a payday.",
-    "timestamp": "2023-05-25T16:05:45",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "Do we need to slow them down?",
+    "timestamp": "2023-05-26T16:55:27",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "KrisBD_4505",
+    "title": "",
+    "message": "Hindering MIDA and any uncontracted Runners should be hi-pri.",
+    "timestamp": "2023-05-26T16:55:33",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "Our info unit pulled multiple digital prints off the UESC folder.",
+    "timestamp": "2023-05-26T16:55:38",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "Some freelance Runner, but more than a few prints with MIDA markers.",
+    "timestamp": "2023-05-26T16:55:45",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "Can start feeding UESC.",
+    "timestamp": "2023-05-26T16:55:49",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Social and back-channel touchpoints pinched too.",
+    "timestamp": "2023-05-26T16:55:56",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Info unit started tracking MIDA prints after the PO was cracked.",
+    "timestamp": "2023-05-26T16:56:03",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "I’ve seen the report",
+    "timestamp": "2023-05-26T16:56:10",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "We have more than enough to stir the UESC in MIDA’s direction",
+    "timestamp": "2023-05-26T16:56:17",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Disrupt MIDA.",
+    "timestamp": "2023-05-26T16:56:22",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "Slow them down.",
+    "timestamp": "2023-05-26T16:56:29",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "UESC down their throats puts them out of sync.",
+    "timestamp": "2023-05-26T16:56:36",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "KrisBD_4505",
+    "title": "",
+    "message": "MIDA cleanses and re-upps their prints enough anything info pulled is likely new to UESC.",
+    "timestamp": "2023-05-26T16:56:43",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "A Disruptor listed two months ago has a new print today.",
+    "timestamp": "2023-05-26T16:56:48",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "NinoDC_0312",
+    "title": "",
+    "message": "If they’re running biomata that likely have multiple.",
+    "timestamp": "2023-05-26T16:56:54",
+    "valid_until": "2023-05-27T07:00:00",
+    "type": "message",
+    "attachment": null
+  },
+  {
+    "from": "UrosBS_0111",
+    "title": "",
+    "message": "Start the pipeline to UESC",
+    "timestamp": "2023-05-26T16:57:01",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "HedvT_6221",
     "title": "",
-    "message": "They may not trust trust each other. But Runners can always be trusted to get a job done.",
-    "timestamp": "2023-05-25T16:05:52",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "\tIf one crew doesn’t do it, another will.",
-    "timestamp": "2023-05-25T16:05:57",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Every time.",
-    "timestamp": "2023-05-25T16:06:01",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "It has been a while since we picked a fight.",
+    "timestamp": "2023-05-26T16:57:08",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "KrisBD_4505",
     "title": "",
-    "message": "How much are we fronting their payday?",
-    "timestamp": "2023-05-25T16:06:05",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "An inconsequential sum and the promise of field testing an S-Series clone.",
-    "timestamp": "2023-05-25T16:06:12",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "I’ll let the UESC and MIDA fight for us.",
+    "timestamp": "2023-05-26T16:57:13",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   },
   {
     "from": "UrosBS_0111",
     "title": "",
-    "message": "Hands-on the S-Series sealed the deal. They couldn’t resist getting a head start on the next gen. That opp’s worth more than credits to most higher end Runners.",
-    "timestamp": "2023-05-25T16:06:22",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Still logistics to cap-off, but the practical aspects of this initiative are tracking.",
-    "timestamp": "2023-05-25T16:06:29",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Info collect won’t be far behind.",
-    "timestamp": "2023-05-25T16:06:34",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Working with @DrazK_9921 for delivery of addendum.",
-    "timestamp": "2023-05-25T16:06:38",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Meet set. Everything is moving.",
-    "timestamp": "2023-05-25T16:06:44",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Quickly.",
-    "timestamp": "2023-05-25T16:06:48",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Let’s all keep pushing forward. Momentum.",
-    "timestamp": "2023-05-25T16:06:54",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "DomoS_0101",
-    "title": "",
-    "message": "Get it done.",
-    "timestamp": "2023-05-25T16:06:57",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Yes sir.",
-    "timestamp": "2023-05-25T16:06:59",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "@TOI_Board UrosBS_0111 MIDA is becoming a problem. Too much United Shipping attention.",
-    "timestamp": "2023-05-25T18:23:00",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Investigation underway",
-    "timestamp": "2023-05-25T18:23:07",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "@UrosBS_0111 How did they secure the keyword for the PO?",
-    "timestamp": "2023-05-25T18:23:14",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "How did they know about the PO?",
-    "timestamp": "2023-05-25T18:23:18",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Investigation underway",
-    "timestamp": "2023-05-25T18:23:25",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Not good enough.",
-    "timestamp": "2023-05-25T18:23:29",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Too much at stake.",
-    "timestamp": "2023-05-25T18:23:33",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "MIDA cracking a password is troubling. But how did they even know to crack it?",
-    "timestamp": "2023-05-25T18:23:40",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "Who knows the PO exists?",
-    "timestamp": "2023-05-25T18:23:44",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "More than should.",
-    "timestamp": "2023-05-25T18:23:50",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Security worked with @HedvT_6221’s team. New encrypt on PO docs.",
-    "timestamp": "2023-05-25T18:23:57",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Trusted code phrase delivered p2p",
-    "timestamp": "2023-05-25T18:24:04",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "<strong>UkFESUFOVA==</strong>",
-    "timestamp": "2023-05-25T18:24:11",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "How are we on the defensive for an initiative no one should know exists?",
-    "timestamp": "2023-05-25T18:24:18",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "It’s ignorant to pretend United’s new route would stay undisclosed.",
-    "timestamp": "2023-05-25T18:24:25",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "We’re tracking the same access everyone else is.",
-    "timestamp": "2023-05-25T18:24:32",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "MIDA seems to be ahead of us.",
-    "timestamp": "2023-05-25T18:24:37",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "They’re not. They’re just good at disruption. They hear the rumors of compromised United files they know they’re not alone.",
-    "timestamp": "2023-05-25T18:24:44",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "We’re on parallel tracks.",
-    "timestamp": "2023-05-25T18:24:49",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Parallel puts us at risk.",
-    "timestamp": "2023-05-25T18:24:54",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "We’re still ahead of them. If they’re even hunting the same opportunities.",
-    "timestamp": "2023-05-25T18:25:01",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "InfoSec passed me their newest propaganda.",
-    "timestamp": "2023-05-25T18:25:08",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Overt references to “progo.”",
-    "timestamp": "2023-05-25T18:25:12",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Yes, but we’re still a few steps ahead. If they had more intel they’d likely be into the files already.",
-    "timestamp": "2023-05-25T18:25:22",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "We’ve churned VLCN on the fourteen locks and we’ve activated a network of trusted Runners to get more eyes on United’s site. Latest we’ve discovered is c2ltdWxhY3J1bXM=",
-    "timestamp": "2023-05-25T18:25:29",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "We’ve cast a wide net to our contract network. There’s risk of unstable loyalties, but with MIDA at our heels we have little choice.",
-    "timestamp": "2023-05-25T18:25:36",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "The locks sent to infosec@traxus.global have been directed to United?",
-    "timestamp": "2023-05-25T18:25:46",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "Yes. Every viable pass phrase received is then sent the United binary. We have a number of freelancers in play. Response has been strong.",
-    "timestamp": "2023-05-25T18:25:53",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "We’re potentially driving our own competition once the full scope is known. But it’s a risk we need to take if we want to stay ahead of MIDA troublemaking and United’s response.",
-    "timestamp": "2023-05-25T18:26:00",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "@TOI_Board MIDA disruption escalating. Project risk increasing.",
-    "timestamp": "2023-05-25T21:08:00",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Clear we are not the only ones shadowing Goliath.",
-    "timestamp": "2023-05-25T21:08:07",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "United Shipping’s going to set off a cold war.",
-    "timestamp": "2023-05-25T21:08:14",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Need our contractors’ sorted.",
-    "timestamp": "2023-05-25T21:08:19",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "How’s prep?",
-    "timestamp": "2023-05-25T21:08:23",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Final asks delivered.",
-    "timestamp": "2023-05-25T21:08:30",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Contracts updated and triggered.",
-    "timestamp": "2023-05-25T21:08:37",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "Travel and tech support being finalized.",
-    "timestamp": "2023-05-25T21:08:44",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "We’re on track for TCIV.",
-    "timestamp": "2023-05-25T21:08:48",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "SekGen updated with contract support addendum (passphrase: <span class=\"\"font-medium\"\">AYHUJL</span> for review). \n",
-    "timestamp": "2023-05-25T21:08:55",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": {
-      "metadata": {
-        "read": "READ",
-        "fileName": "File: ../DB010/***/BIOMAT_SSERIES_PROTOTYPE_CUST.π",
-        "confidential": "PURCHASE ORDER ADDENDUM"
-      },
-      "id": "3"
-    }
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "All other equipment sourced locally.",
-    "timestamp": "2023-05-25T21:08:59",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "<!> OxPa B 01",
-    "timestamp": "2023-05-25T21:09:06",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Shaft collapse.",
-    "timestamp": "2023-05-25T21:09:10",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "How did this happen?",
-    "timestamp": "2023-05-25T21:09:16",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "We’d just listed it as a risk for failure.",
-    "timestamp": "2023-05-25T21:09:23",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "“No major concerns.” This is bad timing.",
-    "timestamp": "2023-05-25T21:09:28",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "What’s the loss?",
-    "timestamp": "2023-05-25T21:09:32",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Too early.",
-    "timestamp": "2023-05-25T21:09:35",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Equipment and structural = total loss",
-    "timestamp": "2023-05-25T21:09:42",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Personnel = Too early",
-    "timestamp": "2023-05-25T21:09:48",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "It’s tragic.",
-    "timestamp": "2023-05-25T21:09:52",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "It’s preventable. That’s the tragedy.",
-    "timestamp": "2023-05-25T21:09:59",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "Why now?",
-    "timestamp": "2023-05-25T21:10:06",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "OxPa is a well-regulated facility.",
-    "timestamp": "2023-05-25T21:10:13",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "Anyone claim responsibility?",
-    "timestamp": "2023-05-25T21:10:18",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Maybe an attack?",
-    "timestamp": "2023-05-25T21:10:25",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "Maybe. I don’t know.",
-    "timestamp": "2023-05-25T21:10:32",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "Do we know?",
-    "timestamp": "2023-05-25T21:10:39",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Indications are site error.",
-    "timestamp": "2023-05-25T21:10:43",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "No signs of hostilities.",
-    "timestamp": "2023-05-25T21:10:50",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "This is going to cost us.",
-    "timestamp": "2023-05-25T21:10:54",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "@VLCN Do we have numbers from OxPa B 01?",
-    "timestamp": "2023-05-25T21:11:01",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "VLCN",
-    "title": "",
-    "message": "300+ affected",
-    "timestamp": "2023-05-25T21:11:08",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "VLCN",
-    "title": "",
-    "message": "300+ injured",
-    "timestamp": "2023-05-25T21:11:15",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "VLCN",
-    "title": "",
-    "message": "304 biomata lost",
-    "timestamp": "2023-05-25T21:11:22",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "VLCN",
-    "title": "",
-    "message": "53 casualties",
-    "timestamp": "2023-05-25T21:11:29",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "VLCN",
-    "title": "",
-    "message": "Numbers not final, situation fluid",
-    "timestamp": "2023-05-25T21:11:36",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "970224312 fits here",
-    "timestamp": "2023-05-25T21:11:43",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "NinoDC_0312",
-    "title": "",
-    "message": "WC",
-    "timestamp": "2023-05-25T21:11:50",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "HedvT_6221",
-    "title": "",
-    "message": "Unfortunate, but timely.",
-    "timestamp": "2023-05-25T21:11:54",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Early numbers indicate clones did their job.",
-    "timestamp": "2023-05-25T21:12:01",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "Seeing only non-biomata workers among lost.",
-    "timestamp": "2023-05-25T21:12:05",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "UrosBS_0111",
-    "title": "",
-    "message": "All clone-wear workers ejected. All survived.",
-    "timestamp": "2023-05-25T21:12:11",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "Going OL to direct messaging.",
-    "timestamp": "2023-05-25T21:12:18",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "PR to coord talking points with SekGen to sell the spin – clones keep you safe, Traxus.Global keeps you safe.",
-    "timestamp": "2023-05-25T21:12:25",
-    "valid_until": "2023-05-26T07:00:00",
-    "type": "message",
-    "attachment": null
-  },
-  {
-    "from": "KrisBD_4505",
-    "title": "",
-    "message": "After @UrosBS_0111 provides his final numbers.",
-    "timestamp": "2023-05-25T21:12:32",
-    "valid_until": "2023-05-26T07:00:00",
+    "message": "Our contractors can clean up the mess.",
+    "timestamp": "2023-05-26T16:57:20",
+    "valid_until": "2023-05-27T07:00:00",
     "type": "message",
     "attachment": null
   }
